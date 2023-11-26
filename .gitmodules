@@ -1,0 +1,3 @@
+[submodule "00 leetcode"]
+	path = 00 leetcode
+	url = git@github.com:pmtatar/leet-code.git
